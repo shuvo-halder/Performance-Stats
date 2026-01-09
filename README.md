@@ -65,13 +65,13 @@ The script provides the following information:
 2. Make the script executable:
 
    ```bash
-   chmod +x server_stats.sh
+   chmod +x server-stats.sh
    ```
 
 3. Run the script:
 
    ```bash
-   ./server_stats.sh
+   ./server-stats.sh
    ```
 
 ## Example Output
