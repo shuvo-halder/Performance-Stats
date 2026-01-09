@@ -1,6 +1,7 @@
 
-
 # Server Performance Stats Script
+
+**Project URL:** [https://github.com/shuvo-halder/Performance-Stats](https://github.com/shuvo-halder/Performance-Stats)
 
 A simple Bash script that displays real-time server performance and system statistics in a clean, readable format. Useful for quick health checks on Linux servers.
 
@@ -54,10 +55,11 @@ The script provides the following information:
 
 ## Usage
 
-1. Save the script to a file, for example:
+1. Clone the repository:
 
    ```bash
-   server_stats.sh
+   git clone https://github.com/shuvo-halder/Performance-Stats.git
+   cd Performance-Stats
    ```
 
 2. Make the script executable:
@@ -99,12 +101,11 @@ Free: 60G
 
 ## Notes
 
-* Run as a normal user for general stats.
-* Some information (like authentication logs) may require elevated permissions depending on system configuration.
-* Designed for quick diagnostics, not long-term monitoring.
+* Run as a normal user for general statistics.
+* Access to authentication logs may require elevated permissions.
+* Designed for quick diagnostics rather than long-term monitoring.
 
 ## License
 
-This script is provided as-is and is free to use, modify, and distribute.
-
+This project is open-source and free to use, modify, and distribute.
 
