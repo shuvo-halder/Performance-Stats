@@ -131,4 +131,4 @@ sudo fail2ban-client status sshd
 - SSH access works with **two key pairs**.  
 - Easy connection via `ssh <alias>`.  
 - Fail2ban protects against brute-force attacks.
-
+Project [link](https://roadmap.sh/projects/ssh-remote-server-setup)
